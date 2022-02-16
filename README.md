@@ -4,5 +4,5 @@
  
 https://github.com/rakezhjab/Advanced-Programming.git
 
-https://iliagrigorevdev.github.io/bowling/
+https://3D.PinBowlingGame.github./bowling/
 
